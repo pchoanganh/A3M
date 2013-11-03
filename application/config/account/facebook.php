@@ -10,7 +10,7 @@
 */
 $config['facebook_app_id'] = "";
 $config['facebook_secret'] = "";
-
+$config['facebook_scope']  = ""; // EX: "read_stream, publish_stream, email"
 
 /* End of file facebook.php */
 /* Location: ./application/account/config/facebook.php */
